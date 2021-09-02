@@ -1,0 +1,101 @@
+//==================================================
+// VULPECULA
+//==================================================
+dimwishlist:item=1622998472&perks=3250034553,3142289711,1168162263,3673922083#notes: Hammer, Accurized, Outlaw, Adagio
+dimwishlist:item=1622998472&perks=1482024992,3142289711,1168162263,3673922083#notes: Smallbore, Accurized, Outlaw, Adagio
+dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,3673922083#notes: Cork, Accurized, Outlaw, Adagio
+dimwishlist:item=1622998472&perks=3250034553,3142289711,2450788523,3673922083#notes: Hammer, Accurized, Kill Wind, Adagio
+dimwishlist:item=1622998472&perks=1482024992,3142289711,2450788523,3673922083#notes: Smallbore, Accurized, Kill Wind, Adagio
+dimwishlist:item=1622998472&perks=4090651448,3142289711,2450788523,3673922083#notes: Cork, Accurized, Kill Wind, Adagio
+dimwishlist:item=1622998472&perks=3250034553,3142289711,1168162263,3038247973#notes: Hammer, Accurized, Outlaw, Explosive
+dimwishlist:item=1622998472&perks=1482024992,3142289711,1168162263,3038247973#notes: Smallbore, Accurized, Outlaw, Explosive
+dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,3038247973#notes: Cork, Accurized, Outlaw, Explosive
+//==================================================
+
+//==================================================
+// JUDGEMENT
+//==================================================
+dimwishlist:item=1476654960&perks=1926090092,3142289711,1195158366,3673922083#notes: Truesight, Accurized, Encore, Adagio
+dimwishlist:item=1476654960&perks=1926090091,3142289711,1195158366,3673922083#notes: Sureshot, Accurized, Encore, Adagio
+dimwishlist:item=1476654960&perks=1926090093,3142289711,1195158366,3673922083#notes: Hitmark, Accurized, Encore, Adagio
+//==================================================
+
+//==================================================
+// DARKEST BEFORE
+//==================================================
+dimwishlist:item=2481758391&perks=3250034553,1561002382,1820235745,3425386926#notes: Hammer, Caliber, Subsistence, Rampage
+dimwishlist:item=2481758391&perks=1392496348,1561002382,1820235745,3425386926#notes: Polygonal, Caliber, Subsistence, Rampage
+dimwishlist:item=2481758391&perks=1482024992,1561002382,1820235745,3425386926#notes: Smallbore, Caliber, Subsistence, Rampage
+dimwishlist:item=2481758391&perks=4090651448,1561002382,1820235745,3425386926#notes: Corkscrew, Caliber, Subsistence, Rampage
+//==================================================
+
+//==================================================
+// THE LONG WALK
+//==================================================
+dimwishlist:item=3326850591&perks=1392496348,1561002382,2450788523,957782887#notes: Polygonal, Caliber, Kill Wind, Snapshot
+dimwishlist:item=3326850591&perks=3250034553,1561002382,2450788523,957782887#notes: Hammer, Caliber, Kill Wind, Snapshot
+dimwishlist:item=3326850591&perks=1392496348,1561002382,1168162263,957782887#notes: Polygonal, Caliber, Outlaw, Snapshot
+dimwishlist:item=3326850591&perks=3250034553,1561002382,1168162263,957782887#notes: Hammer, Caliber, Outlaw, Snapshot
+//==================================================
+
+//==================================================
+// A SWIFT VERDICT
+//==================================================
+dimwishlist:item=1626503676&perks=445755704,1561002382,2450788523,2846385770#notes: Tactic, Caliber, Kill Wind, Rangefinder
+//==================================================
+
+//==================================================
+// THE LAST BREATH
+//==================================================
+dimwishlist:item=507038823&perks=3250034553,1561002382,2450788523,3673922083#notes: Hammer, Caliber, Kill Wind, Adagio
+dimwishlist:item=507038823&perks=1482024992,1561002382,2450788523,3673922083#notes: Smallbore, Caliber, Kill Wind, Adagio
+//==================================================
+
+//==================================================
+// A SUDDEN DEATH
+//==================================================
+dimwishlist:item=2855157553&perks=1332244541,3142289711,3161816588,957782887#notes: Rifled, Accurized, Slideshot, Snapshot
+//==================================================
+
+//==================================================
+// FRACTETHYST
+//==================================================
+dimwishlist:item=3184681056&perks=1332244541,791862061,3161816588,47981717#notes: Rifled, Assault, Slide, Opening
+dimwishlist:item=3184681056&perks=1332244541,3142289711,3161816588,47981717#notes: Rifled, Accurized, Slide, Opening
+dimwishlist:item=3184681056&perks=1482024992,791862061,3161816588,47981717#notes: Smoothbore, Assault, Slide, Opening
+dimwishlist:item=3184681056&perks=466087222,3142289711,3161816588,47981717#notes: Smoothbore, Accurized, Slide, Opening
+dimwishlist:item=3184681056&perks=1482024992,791862061,3161816588,47981717#notes: Smallbore, Assault, Slide, Opening
+dimwishlist:item=3184681056&perks=1482024992,3142289711,3161816588,47981717#notes: Smallbore, Accurized, Slide, Opening
+dimwishlist:item=3184681056&perks=1332244541,791862061,2117683199,47981717#notes: Rifled, Assault, Auto, Opening
+dimwishlist:item=3184681056&perks=1332244541,3142289711,2117683199,47981717#notes: Rifled, Accurized, Auto, Opening
+dimwishlist:item=3184681056&perks=466087222,791862061,2117683199,47981717#notes: Smoothbore, Assault, Auto, Opening
+dimwishlist:item=3184681056&perks=466087222,3142289711,2117683199,47981717#notes: Smoothbore, Accurized, Auto, Opening
+dimwishlist:item=3184681056&perks=1482024992,791862061,2117683199,47981717#notes: Smallbore, Assault, Auto, Opening
+dimwishlist:item=3184681056&perks=1482024992,3142289711,2117683199,47981717#notes: Smallbore, Accurized, Auto, Opening
+//==================================================
+
+//==================================================
+// WOLFTONE DRAW
+//==================================================
+dimwishlist:item=3472875143&perks=852209214,2154191829,201365942,2848615171#notes: Polymer, Carbon, Archers, Dragonfly
+dimwishlist:item=3472875143&perks=852209214,3827198035,201365942,2848615171#notes: Polymer, Straight, Archers, Dragonfly
+dimwishlist:item=3472875143&perks=852209214,3311977193,201365942,2848615171#notes: Polymer, Helical, Archers, Dragonfly
+//==================================================
+
+//==================================================
+// CHRYSURA MELO
+//==================================================
+dimwishlist:item=1337707096&perks=1392496348,106909392,1359896290,2848615171#notes: Polygonal, Tactical, Dynamic, Dragonfly
+dimwishlist:item=1337707096&perks=1482024992,106909392,1359896290,2848615171#notes: Smallbore, Tactical, Dynamic, Dragonfly
+dimwishlist:item=1337707096&perks=1392496348,3177308360,1168162263,2848615171#notes: Polygonal, Steady, Outlaw, Dragonfly
+dimwishlist:item=1337707096&perks=1482024992,3177308360,1168162263,2848615171#notes: Smallbore, Steady, Outlaw, Dragonfly
+dimwishlist:item=1337707096&perks=1392496348,3142289711,1359896290,4104185692#notes: Polygonal, Accurized, Dynamic, Frenzy
+dimwishlist:item=1337707096&perks=1482024992,3142289711,1359896290,4104185692#notes: Smallbore, Accurized, Dynamic, Frenzy
+//==================================================
+
+//==================================================
+// CANIS MAJOR
+//==================================================
+dimwishlist:item=2066434718&perks=1441682018,3301904089,951095735,1546637391#notes: Linear, Spike, Impulse, Vorpal
+dimwishlist:item=2066434718&perks=1478423395,3301904089,951095735,1546637391#notes: Volatile, Spike, Impulse, Vorpal
+//==================================================
