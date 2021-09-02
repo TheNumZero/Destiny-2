@@ -99,3 +99,16 @@ dimwishlist:item=1337707096&perks=1482024992,3142289711,1359896290,4104185692#no
 dimwishlist:item=2066434718&perks=1441682018,3301904089,951095735,1546637391#notes: Linear, Spike, Impulse, Vorpal
 dimwishlist:item=2066434718&perks=1478423395,3301904089,951095735,1546637391#notes: Volatile, Spike, Impulse, Vorpal
 //==================================================
+
+//==================================================
+// PALINDROME
+//==================================================
+dimwishlist:item=1481892490&perks=3250034553,1561002382,1168162263,2846385770#notes: Hammer, Caliber, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=1482024992,1561002382,1168162263,2846385770#notes: Smallbore, Caliber, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=4090651448,1561002382,1168162263,2846385770#notes: Corkscrew, Caliber, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=202670084,1561002382,1168162263,2846385770#notes: Fullbore, Caliber, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=3250034553,1885400500,1168162263,2846385770#notes: Hammer, Ricochet, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=1482024992,1885400500,1168162263,2846385770#notes: Smallbore, Ricochet, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=4090651448,1885400500,1168162263,2846385770#notes: Corkscrew, Ricochet, Outlaw, Rangefinder
+dimwishlist:item=1481892490&perks=202670084,1885400500,1168162263,2846385770#notes: Fullbore, Ricochet, Outlaw, Rangefinder
+//==================================================
